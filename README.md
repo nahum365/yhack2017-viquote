@@ -1,4 +1,4 @@
-# yhack2k17
+# YHack 2017: ViQuote
 
 Created with Raymond Li (github: @Ray725) and Rounak Bera (github: @rounakbera) at YHack 2017.
  
