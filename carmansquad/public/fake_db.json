@@ -1,0 +1,22 @@
+{
+  "ownerName": "",
+  "employmentSelection": ["no"],
+  "employmentOptions": ["yes", "no"],
+  "lowRiskCount": 0,
+  "mediumRiskCount": 0,
+  "highRiskCount": 0,
+  "peopleCovered": 0,
+  "annualIncome": 0,
+  "maritalSelection": ["no"],
+  "maritalOptions": ["yes", "no"],
+  "height": 0,
+  "weight": 0,
+  "tobaccoOptions": ["yes", "no"],
+  "tobaccoSelection": ["no"],
+  "genderAssignedAtBirthOptions": ["male", "female"],
+  "genderAssignedAtBirthSelection": ["female"],
+  "age": 0,
+  "latitude": 41,
+  "longitude": 73,
+  "coverage": 0
+}
